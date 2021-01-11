@@ -6,15 +6,23 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-11T18:56:30+09:00"
+      "last_modified": "2021-01-11T22:07:28+09:00"
+    },
+    {
+      "path": "data.html",
+      "title": "데이터",
+      "description": "ESG 관련 데이터 모음",
+      "author": [],
+      "contents": "\r\n\r\nContents\r\n데이터\r\n데이터 2\r\n\r\n데이터\r\n데이터 2\r\n\r\n\r\n",
+      "last_modified": "2021-01-11T22:07:29+09:00"
     },
     {
       "path": "index.html",
       "title": "그린 뉴딜 녹색 성장",
       "description": "`tidyverse`와 함께 하는 녹색성장 \n",
       "author": [],
-      "contents": "\r\n안녕하세요.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-11T18:56:31+09:00"
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-11T22:07:30+09:00"
     }
   ],
   "collections": []
