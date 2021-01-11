@@ -1,7 +1,7 @@
 name: "geospatial"
-title: "Go Green "
+title: "Green New Deal"
 description: |
-  Go Green 
+  한글 사랑 
 output_dir: "docs"
 navbar:
   right:
@@ -9,4 +9,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Data"
+      href: data.html
+    - text: "Blog"
+      href: blog.html
 output: distill::distill_article

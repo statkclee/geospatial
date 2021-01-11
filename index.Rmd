@@ -1,9 +1,11 @@
 ---
-title: "Go Green "
+title: "그린 뉴딜 녹색 성장"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  `tidyverse`와 함께 하는 녹색성장 
 site: distill::distill_website
 ---
+
+안녕하세요. 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
