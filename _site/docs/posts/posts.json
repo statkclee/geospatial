@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2021-01-11-geospatial-for-climate-change/",
+    "title": "geospatial for climate change",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "이광춘",
+        "url": "https://github.com/statkclee"
+      }
+    ],
+    "date": "2021-01-11",
+    "categories": [],
+    "contents": "\r\n\r\nContents\r\n이제 시작이다.\r\n\r\n이제 시작이다.\r\n[@elisa2020geographic] bibliography: assets/bibliography_geospatial.bib\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-01-11T22:24:37+09:00",
+    "input_file": {}
+  }
+]
